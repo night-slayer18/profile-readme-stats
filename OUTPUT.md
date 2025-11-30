@@ -1,10 +1,10 @@
 Account age: **4** years
 
-Pushed **744** commits (Longest Streak: **13** days, Current Streak: **5** days)
+Pushed **748** commits (Longest Streak: **13** days, Current Streak: **5** days)
 
 Opened **3** issues
 
-Submitted **5** pull requests
+Submitted **6** pull requests
 
 Reviewed **0** pull requests
 
@@ -18,15 +18,15 @@ Discussions Started: **1** | Answered: **6**
 
 Own **47** repositories
 
-Contributed to **1** public repositories
+Contributed to **2** public repositories
 
 **Recent Activity:**
 <ul>
+<li><a href="https://github.com/orhun/profile-readme-stats/pull/1">Refactor codebase, add tests, and implement new profile stats</a> in <a href="https://github.com/orhun/profile-readme-stats">orhun/profile-readme-stats</a></li>
 <li><a href="https://github.com/night-slayer18/ugit/pull/4">Ugit features</a> in <a href="https://github.com/night-slayer18/ugit">night-slayer18/ugit</a></li>
 <li><a href="https://github.com/night-slayer18/ugit/pull/3">v1.2.0</a> in <a href="https://github.com/night-slayer18/ugit">night-slayer18/ugit</a></li>
 <li><a href="https://github.com/night-slayer18/ugit/pull/2">Ugit features</a> in <a href="https://github.com/night-slayer18/ugit">night-slayer18/ugit</a></li>
 <li><a href="https://github.com/night-slayer18/ugit/pull/1">Ugit features</a> in <a href="https://github.com/night-slayer18/ugit">night-slayer18/ugit</a></li>
-<li><a href="https://github.com/night-slayer18/goforge/pull/1">Upgrade/v2</a> in <a href="https://github.com/night-slayer18/goforge">night-slayer18/goforge</a></li>
 </ul>
 
 Top 8 most used languages across your repositories:
